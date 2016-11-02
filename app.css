@@ -30,4 +30,6 @@ opacity: 1.0;
 #love{ opacity: 1.0; }
 #love:hover { 
   -webkit-animation-name: pulse;  
+  -webkit-animation-duration: 0.5s; 
+  -webkit-animation-iteration-count: 1000; 
 }
