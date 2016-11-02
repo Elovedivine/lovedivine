@@ -27,9 +27,7 @@ opacity: 1.0;
   }
 }
 
-#love{ opacity: 0.75; }
+#love{ opacity: 1.0; }
 #love:hover { 
-  -webkit-animation-name: pulse; 
-  -webkit-animation-duration: 0.1s; 
-  -webkit-animation-iteration-count: 10; 
+  -webkit-animation-name: pulse;  
 }
