@@ -1,0 +1,8 @@
+#page1 {  
+  font-size: 2em;
+  margin:auto;
+  padding:auto;
+  background: #000 url(https://c8.staticflickr.com/6/5746/30090214303_7ee686e4c4_k.jpg) center center fixed no-repeat;
+  -moz-background-size: cover;
+  background-size: cover;
+}
